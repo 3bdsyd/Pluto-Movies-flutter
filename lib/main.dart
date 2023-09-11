@@ -12,5 +12,5 @@ void main() async {
   );
   await GetStorage.init();
   runApp(const MyApp());
-  print('d');
+  print('dk');
 }
